@@ -4,5 +4,5 @@
   <a href = "mailto:thalia.araujo321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalía-araújo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&layout=compact&show_icons=true&theme=radical)](https://github.com/thaliaraujo/github-readme-stats)
+![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&show_icons=true&theme=radical&<width="48%">)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&layout=compact&show_icons=true&theme=radical&<width="48%">)](https://github.com/thaliaraujo/github-readme-stats)
