@@ -1,7 +1,6 @@
 ### Oii! Eu sou a Thalía Araújo
 
-[![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&show_icons=true&theme=radical)](https://github.com/thaliaraujo/github-readme-stats)
-[![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo)](https://github.com/thaliaraujo/github-readme-stats)
+[![Thalía's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thaliaraujo&show_icons=true&theme=radical)](https://github.com/thaliaraujo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&theme=radical)](https://github.com/thaliaraujo/github-readme-stats)
 
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
