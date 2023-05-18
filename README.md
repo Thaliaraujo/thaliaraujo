@@ -25,7 +25,7 @@
 <br>
 
 <p>
-<img align="right" width="150px" style="margin-top:-20px" src="https://media2.giphy.com/media/BqQe9ikFPXi0PTvavF/giphy.gif?cid=ecf05e475avubxa6s0iy49wuvoiz6hyxsp5cazbae6qyiciq&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<img align="right" width="200px" style="margin-top:-20px" src="https://media4.giphy.com/media/KJWgJrUbqPsB2gvSIt/giphy.gif?cid=ecf05e47269cilj31m2xaij8gmxh44awkylqpf09f3rz1tf5&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 </p>
 
  
@@ -33,7 +33,14 @@
  
  Sou apaixonada por programação e dogs! aventureira no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
-### 🖥️ Tecnologias e Ferramentas:
+###  Tecnologias e Ferramentas:
 
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">🖥️ Aprendendo JavaScript;</p>
+ <p align="left">📚 Tenho me dedicado intensamente ao aprendizado de Front-End;</p>
+ <p align="left">☕😴 só acordo com café, adoro dormir e maratonar series.</p>
+</div>
