@@ -42,5 +42,5 @@
 <div display="inline-block">
  <p align="left">🖥️ Aprendendo JavaScript;</p>
  <p align="left">📚 Tenho me dedicado intensamente ao aprendizado de Front-End;</p>
- <p align="left">☕😴 só acordo com café, adoro dormir e maratonar series.</p>
+ <p align="left">☕😴 só acordo com café, adoro praia e viagens.</p>
 </div>
