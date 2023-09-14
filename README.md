@@ -32,16 +32,16 @@
  
 <div dsplay="inline-block">
  
- Sou apaixonada por programação e dogs! aventureira no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+ Sou apaixonada por desenvolvimento Front-End e dogs! aventureira no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
 ###  Tecnologias e Ferramentas:
 
-<img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
+<img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+          
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🖥️ Aprendendo JavaScript;</p>
+ <p align="left">🖥️ Aprendendo JavaScript e React;</p>
  <p align="left">📚 Tenho me dedicado intensamente ao aprendizado de Front-End;</p>
  <p align="left">☕😴 só acordo com café, adoro praia e viagens.</p>
 </div>
