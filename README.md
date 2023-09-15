@@ -17,8 +17,8 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&theme=radical&layout=compact)](https://github.com/thaliaraujo/github-readme-stats)
-[![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&show_icons=true&theme=radical)](https://github.com/thaliaraujo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&theme=onedark&layout=compact)](https://github.com/thaliaraujo/github-readme-stats)
+[![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&show_icons=true&theme=onedark)](https://github.com/thaliaraujo/github-readme-stats)
 
 
 <br>
