@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/thaliaraujo/blob/main/avatar3.jpeg">
+s<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/thaliaraujo/blob/main/avatar3.jpeg">
 
 </br>
 </br>
@@ -17,8 +17,8 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&theme=radical&layout=compact)](https://github.com/thaliaraujo/github-readme-stats)
-[![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&showicons=true&theme=radical)](https://github.com/thaliaraujo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaliaraujo&theme=dracula&layout=compact)](https://github.com/thaliaraujo/github-readme-stats)
+[![Thalía's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaliaraujo&showicons=true&theme=dracula)](https://github.com/thaliaraujo/github-readme-stats)
 
 
 <br>
