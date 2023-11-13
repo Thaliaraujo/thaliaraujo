@@ -1,4 +1,4 @@
-s<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/thaliaraujo/blob/main/avatar3.jpeg">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/thaliaraujo/blob/main/avatar3.jpeg">
 
 </br>
 </br>
