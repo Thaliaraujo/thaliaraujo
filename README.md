@@ -5,7 +5,7 @@
 
 <div dsplay="inline-block">
  
-### Hello, Devs!!! Eu sou a Thalía Araújo 
+### Hello, Devs!!! Eu sou a Thalía Araújo 👋
  
  #
 
@@ -32,7 +32,15 @@
  
 <div dsplay="inline-block">
  
- Sou apaixonada por desenvolvimento Front-End e dogs! aventureira no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+ Sou apaixonada por desenvolvimento Front-End, design e... dogs! 🐶 Atualmente, meu foco total está no ecossistema React, transformando ideias em interfaces funcionais e responsivas. Após uma imersão nos fundamentos, estou de volta ao GitHub para documentar minha evolução com projetos reais.
+
+O que estou fazendo agora:
+
+🚀 Desenvolvendo projetos com React.js e Next.js.
+
+🎨 Refinando conceitos de UI/UX Design com Figma.
+
+🛠️ Aprofundando conhecimentos em TypeScript e consumo de APIs.
 
 ###  Tecnologias e Ferramentas:
 
@@ -42,7 +50,6 @@
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🖥️ Aprendendo JavaScript e React;</p>
- <p align="left">📚 Tenho me dedicado intensamente ao aprendizado de Front-End;</p>
- <p align="left">☕😴 só acordo com café, adoro praia e viagens.</p>
+ <p align="left">Front-End Developer | React.js | TypeScript | UI Design
+  <br> ⚛️ Construindo interfaces modernas e escaláveis.</p>
 </div>
