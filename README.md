@@ -19,6 +19,7 @@
  <br>  
 Sou apaixonada por desenvolvimento Front-End, design e... dogs! 🐶 Atualmente, meu foco total está no ecossistema React, transformando ideias em interfaces funcionais e responsivas. Após uma imersão nos fundamentos, estou de volta ao GitHub para documentar minha evolução com projetos reais.
 <br>
+
 #### O que estou fazendo agora:
 
 🚀 Desenvolvendo projetos com React.js e Next.js.
