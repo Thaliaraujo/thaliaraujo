@@ -31,6 +31,8 @@
 
  
 <div dsplay="inline-block">
+
+<p align="left">Front-End Developer | React.js | TypeScript | UI Design
  
  Sou apaixonada por desenvolvimento Front-End, design e... dogs! 🐶 Atualmente, meu foco total está no ecossistema React, transformando ideias em interfaces funcionais e responsivas. Após uma imersão nos fundamentos, estou de volta ao GitHub para documentar minha evolução com projetos reais.
 
@@ -46,10 +48,3 @@ O que estou fazendo agora:
 
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
           
-          
-</br>
-</br>
-<div display="inline-block">
- <p align="left">Front-End Developer | React.js | TypeScript | UI Design
-  <br> ⚛️ Construindo interfaces modernas e escaláveis.</p>
-</div>
